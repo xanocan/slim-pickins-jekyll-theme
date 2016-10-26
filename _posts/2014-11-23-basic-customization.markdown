@@ -24,3 +24,5 @@ A few simple configs to change after an initial install
   paginate: 5
   paginate_path: "blog/page:num/"
   ```
+  
+  :smile:
